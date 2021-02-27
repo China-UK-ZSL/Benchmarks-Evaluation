@@ -67,7 +67,7 @@
 | SUN | medium | fine | 645/72 | 14340 | attribute | [Paper](https://cs.brown.edu/~gmpatter/pub_papers/SUN_Attribute_Database_CVPR2012.pdf) Data|
 | ImageNet | large | coarse & fine |  |  | class hierarchy from WordNet, word embeddings of class names | Paper Data|
 
-- The datasets of aPY, AwA1, AwA2, CUB, SUN and ImageNet have a [standardization version](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly), which is widely used now with more standardized data splits, image features and attribute vectors.
+- The datasets of aPY, AwA1, AwA2, CUB, SUN and ImageNet have a [standardization version](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly), which is widely used now with more standardized data splits, image features and attribute vectors, and evaluation metrics.
 - evaluation metrics (accuracy)
 
 
