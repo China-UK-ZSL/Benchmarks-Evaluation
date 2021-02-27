@@ -24,9 +24,9 @@
     <td></td>
 </tr>
 <tr>
-    <td colspan="2"><a href="#applications">2. Natural Language Processing</a></td></tr> 
+    <td colspan="2"><a href="#natural-language-processing">2. Natural Language Processing</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#physics">2.1 Text Classification</a></td>
+    <td>&emsp;<a href="#text-classification">2.1 Text Classification</a></td>
     <td>&ensp;<a href="#chemistry-and-biology">2.2 Fine-grained Named Entity Typing</a></td>
 </tr> 
 <tr>
@@ -56,3 +56,14 @@
 ## [Computer Vision](#content)
 
 ### [Image Classification](#content)
+
+| Dataset | Size | Granularity | Split (Seen/Unseen) | # Images | Side Information | Sources |
+| :----: | :----: | :----: | :----: | :----: | :---- | :----: |
+| aPY | small | coarse | 20/12 | 15339 | | |
+
+
+
+
+## [Natural Language Processing](#content)
+
+### [Text Classification](#content)
