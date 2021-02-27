@@ -59,7 +59,14 @@
 
 | Dataset | Size | Granularity | Split (Seen/Unseen) | # Images | Side Information | Sources |
 | :----: | :----: | :----: | :----: | :----: | :---- | :----: |
-| aPY | small | coarse | 20/12 | 15339 | | |
+| Attribute Pascal and Yahoo <br> (aPY) | small | coarse | 20/12 | 15339 | | [Paper](https://www.cs.cmu.edu/~afarhadi/papers/Attributes.pdf) [Data](https://vision.cs.uiuc.edu/attributes/)|
+| Animals with Attributes1 <br> (AwA1) | medium | coarse | 40/10 | 30475 | | [Paper](https://hannes.nickisch.org/papers/articles/lampert13attributes.pdf) [Data](http://pub.ist.ac.at/~chl/AwA/)|
+| Animals with Attributes2 <br> (AwA2) | medium | coarse | 40/10 | 37322 | | [Paper](https://arxiv.org/pdf/1707.00600.pdf) [Data](http://cvml.ist.ac.at/AwA2/)|
+| Caltech-UCSD- Birds 200-2011 <br> (CUB) | medium | fine | 150/50 | 11788 | | [Paper](http://www.vision.caltech.edu/visipedia/papers/WelinderEtal10_CUB-200.pdf) Data|
+| SUN | medium | fine | 645/72 | 14340 | | [Paper](https://cs.brown.edu/~gmpatter/pub_papers/SUN_Attribute_Database_CVPR2012.pdf) Data|
+| North America Birds <br> (NAB) |  |  |  |  | | [Paper](https://gvanhorn38.github.io/assets/papers/building_a_bird_recognition_app.pdf) Data|
+
+
 
 
 
