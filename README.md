@@ -65,10 +65,10 @@
 | Caltech-UCSD- Birds 200-2011 (CUB) | medium | fine | 150/50 | 11788 | attribute, hierarchy| [Paper](http://www.vision.caltech.edu/visipedia/papers/WelinderEtal10_CUB-200.pdf) Data|
 | North America Birds (NAB) |  |  |  |  | attribute, hierarchy | [Paper](https://gvanhorn38.github.io/assets/papers/building_a_bird_recognition_app.pdf) Data|
 | SUN | medium | fine | 645/72 | 14340 | attribute | [Paper](https://cs.brown.edu/~gmpatter/pub_papers/SUN_Attribute_Database_CVPR2012.pdf) Data|
-| ImageNet | large | coarse & fine |  |  | hierarchy, word embeddings of class names | Paper Data|
+| ImageNet | large | coarse & fine |  |  | class hierarchy from WordNet, word embeddings of class names | Paper Data|
 
 - The datasets of aPY, AwA1, AwA2, CUB, SUN and ImageNet have a [standardization version](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly), which is widely used now with more standardized data splits, image features and attribute vectors.
-- 
+- evaluation metrics (accuracy)
 
 
 
